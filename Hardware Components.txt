@@ -1,0 +1,13 @@
+/*/*/*/*/*/*/*Components*\*\*\*\*\*\*\
+
+1-ATmega32A Microcontroller
+2-USBasp Programmer
+3-LCD 2x16
+4-Variable Resistor 10Kohm
+5-Resistor 330ohm
+6-Green & Red LED
+7-Keypad 4x4
+8-Jumbers
+
+/*/*/*/*/*/*/************\*\*\*\*\*\*\
+
